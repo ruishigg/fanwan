@@ -25,7 +25,7 @@ binding = "BUCKET"
 bucket_name = "fanwaner-assets"
 
 [vars]
-TURNSTILE_SITE_KEY = "0x4AAAAAAGUGx1BR1-6ksa4G"  # Turnstile 站点公开 sitekey
+TURNSTILE_SITE_KEY = "0x4AAAAAAGUGx1BRl-6ksa4G"  # Turnstile 站点公开 sitekey
 MAX_AMOUNT_YUAN = 1000  # 单次投喂/目标金额上限（元）
 MAX_UPLOAD_BYTES = 2097152  # 图片上传大小上限（2MB）
 R2_FONT_KEY = "fonts/NotoSansSC-Regular.otf"  # OG 图用的中文字体在 R2 的 key
